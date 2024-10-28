@@ -1,4 +1,4 @@
-public class Baibuoi5Baibuoi {
+public class Baibuoi5 {
     public static int tinhGiaTriLonNhat(int a, int b) {
         return a > b ? a : b;
     }
